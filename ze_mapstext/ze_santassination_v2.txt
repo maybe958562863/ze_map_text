@@ -2,215 +2,215 @@
 {
 	"***ROCK WALL WILL BREAK IN 15 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**岩壁15秒后破碎 **"
 	}
 	"***ROCK WALL WILL BREAK IN 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**岩壁5秒后破碎 **"
 	}
 	"***FALL BACK***"
 	{
-		"chi"		"** **"
+		"chi"		"**撤退！ **"
 	}
 	"***SOMETHING IS COMING...***"
 	{
-		"chi"		"** **"
+		"chi"		"**有什么东西来了 **"
 	}
 	"***RUN***"
 	{
-		"chi"		"** **"
+		"chi"		"**快跑 **"
 	}
 	"***GET UP ON THAT ROCK***"
 	{
-		"chi"		"** **"
+		"chi"		"**爬上那块石头！ **"
 	}
 	"***MUFASA.. IS DEAD...***"
 	{
-		"chi"		"** **"
+		"chi"		"**木法沙。。死了。。 **"
 	}
 	"***SANTA CLAUS WILL PAY FOR HIS DEEDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**圣诞老人要为此付出代价！ **"
 	}
 	"***PROLOGUE COMPLETE***"
 	{
-		"chi"		"** **"
+		"chi"		"**序章结束。干得漂亮！翻译：maybe？（本地图包含大量不和谐词汇，恶心词汇及无意义命名不予翻译，敬请谅解！） **"
 	}
 	"***SNOW WALL WILL BREAK IN 10 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**雪堆10秒后破碎 **"
 	}
 	"***DRAWBRIDGE WILL DRAW ITSELF IN 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**吊桥会在5秒后放下 **"
 	}
 	"***DRAWBRIDGE IS DRAWING***"
 	{
-		"chi"		"** **"
+		"chi"		"**吊桥正在放下。。 **"
 	}
 	"***DRAWBRIDGE HAS BEEN DRAWED***"
 	{
-		"chi"		"** **"
+		"chi"		"**吊桥已经放下啦 **"
 	}
 	"***INNER BEAVER BLASTDOOR IS OPENING IN 20 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**内门一号20秒后打开 **"
 	}
 	"***INNER INNEST INCEST BEAVER BLASTDOOR IS OPENING IN 15 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**内门二号15秒后打开 **"
 	}
 	"***THIS GATE WILL OPEN ONCE BOTH PATHS HAVE BEEN CLEARED***"
 	{
-		"chi"		"** **"
+		"chi"		"**两条道路肃清后，大门将开启 **"
 	}
 	"***SECOND FIRST JEDI-SCROLL-DOOR IS OPENING IN 15 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第二扇卷帘门15秒后开启 **"
 	}
 	"***SECOND FIRST JEDI-SCROLL-DOOR IS OPENING***"
 	{
-		"chi"		"** **"
+		"chi"		"**第二扇卷帘门正在开启 **"
 	}
 	"***INCEST***"
 	{
-		"chi"		"** **"
+		"chi"		"**和谐 **"
 	}
 	"***WINCEST***"
 	{
-		"chi"		"** **"
+		"chi"		"**和谐 **"
 	}
 	"***STEELWORKS DOOR WILL OPEN IN 30 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**炼钢厂（boss战房间）的大门30秒后开启 **"
 	}
 	"***STEELWORKS DOOR WILL OPEN IN 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**炼钢厂（boss战房间）的大门5秒后开启 **"
 	}
 	"***STEELWORKS DOOR IS OPENING***"
 	{
-		"chi"		"** **"
+		"chi"		"**炼钢厂（boss战房间）的大门正在开启 **"
 	}
 	"***STEELWORKS DOOR WILL CLOSE IN 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**炼钢厂（boss战房间）的大门5秒后关闭 **"
 	}
 	"***STEELWORKS DOOR IS CLOSING***"
 	{
-		"chi"		"** **"
+		"chi"		"**炼钢厂（boss战房间）的大门正在关闭 **"
 	}
 	"***THE BEAVERS ARE COMING***"
 	{
-		"chi"		"** **"
+		"chi"		"**圣诞海狸出现了！ **"
 	}
 	"***THE BEAVERS ARE AGRESSIVE***"
 	{
-		"chi"		"** **"
+		"chi"		"**圣诞海狸要跟你干架！ **"
 	}
 	"***THAT SEEMS TO BE THE LAST OF THEM***"
 	{
-		"chi"		"** **"
+		"chi"		"**我想这是最后一只海狸了 **"
 	}
 	"***SUB-PRIMARY PROTOCOL DOOR WILL OPEN IN 40 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门40秒后开启 **"
 	}
 	"***SUB-PRIMARY PROTOCOL DOOR WILL OPEN IN 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门5秒后开启 **"
 	}
 	"***SELF-DESTRUCT SEQUENCE HAS BEEN INITIATED***"
 	{
-		"chi"		"** **"
+		"chi"		"**工厂的自毁装置已经启动，快去安全的地方！ **"
 	}
 	"***LASER SHUTDOWN IN 20 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**激光20秒后停止 **"
 	}
 	"***LASER SHUTDOWN IN 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**激光5秒后停止 **"
 	}
 	"***ESCAPE THE BEAVER STEELWORKS FACILITY***"
 	{
-		"chi"		"** **"
+		"chi"		"**离开这座圣诞海狸工厂 **"
 	}
 	"***PRIMARY PROTOCOL DOOR WILL OPEN IN 20 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第一道门20秒后打开 **"
 	}
 	"***SECONDARY PROTOCOL DOOR WILL OPEN IN 20 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第二道门20秒后打开 **"
 	}
 	"***ELEVATOR OPENS IN 15 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯15秒后打开 **"
 	}
 	"***ELEVATOR DOOR IS OPEN***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯开了 **"
 	}
 	"***ELEVATOR LEAVES IN 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯5秒后离开 **"
 	}
 	"***FINAL ELEVATOR DOOR WILL CLOSE IN 30 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**最后的电梯门30秒后关闭（终点了，一定要守住！） **"
 	}
 	"***FINAL ELEVATOR DOOR WILL CLOSE IN 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**最后的电梯门5秒后关闭（丢出你们的手雷，尽情轰炸吧！） **"
 	}
 	"***FINAL ELEVATOR DOOR IS CLOSING***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯门正在关闭 **"
 	}
 	"***ACT 1 COMPLETE***"
 	{
-		"chi"		"** **"
+		"chi"		"**第一章结束！恭喜你们摧毁了圣诞海狸工厂，该向圣诞老人的城堡进发了！ **"
 	}
 	"***LEFT PRIMAL ELEVATOR LEAVES IN 10 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**左侧电梯10秒后离开（请集中坐一部电梯） **"
 	}
 	"***LEFT PRIMAL ELEVATOR IS LEAVING***"
 	{
-		"chi"		"** **"
+		"chi"		"**左侧电梯正在下降 **"
 	}
 	"***SECONDARY PROTOCOL ELEVATOR IS LEAVING IN 30 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯20秒后离开 **"
 	}
 	"***SECONDARY PROTOCOL ELEVATOR IS LEAVING IN 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯5秒后离开 **"
 	}
 	"***SECONDARY PROTOCOL ELEVATOR IS LEAVING***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯正在离开 **"
 	}
 	"***SECRET SANTA CHAPEL DOOR IS OPENING IN 20 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**这是一个秘密的圣诞教堂？门20秒后开启 **"
 	}
 	"***SECRET SANTA CHAPEL DOOR IS OPENING***"
 	{
-		"chi"		"** **"
+		"chi"		"**圣诞教堂的门打开了！ **"
 	}
 	"***SATISFY THE LIPS WITH SEWER CHOCOLATE IN ORDER TO ENTER***"
 	{
-		"chi"		"** **"
+		"chi"		"**只有用巧克力满足这张人脸才会打开通道让我们进去！ **"
 	}
 	"***7 SMEARED HUMANS SHOULD BE ABLE TO SATISFY THOSE SORE LIPS***"
 	{
-		"chi"		"** **"
+		"chi"		"**我想7份巧克力就足以满足他了。（不会旋转跳的守好僵尸！小心摔死！）**"
 	}
 	"***GOOD LUCK***"
 	{
-		"chi"		"** **"
+		"chi"		"**那么，祝你好运！ **"
 	}
 	"U WOT M8"
 	{
@@ -218,459 +218,459 @@
 	}
 	"***PLAYER PICKED UP ITEM - SPEEDER***"
 	{
-		"chi"		"** **"
+		"chi"		"**一名玩家拾取了加速（按住e可以以极快速度移动） **"
 	}
 	"***PLAYER PICKED UP ITEM - HEALING SHITBOX***"
 	{
-		"chi"		"** **"
+		"chi"		"**一名玩家拾取了治疗（多次回复，每次25点血，最高上限200） **"
 	}
 	"***FIRST FIRST JEDI-SCROLL-DOOR IS OPENING IN 15 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**卷帘门15秒后打开 **"
 	}
 	"***FIRST FIRST JEDI-SCROLL-DOOR IS OPENING***"
 	{
-		"chi"		"** **"
+		"chi"		"**卷帘门开了 **"
 	}
 	"***SECOND SECOND JEDI-SCROLL-DOOR IS OPENING IN 15 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**卷帘门15秒后打开 **"
 	}
 	"***SECOND SECOND JEDI-SCROLL-DOOR IS OPENING***"
 	{
-		"chi"		"** **"
+		"chi"		"**卷帘门开了 **"
 	}
 	"***PLAYER PICKED UP ITEM - MINI CANNON***"
 	{
-		"chi"		"** **"
+		"chi"		"**一名玩家拾取了迷你加农炮（击杀一定范围内的小怪） **"
 	}
 	"***RIGHT PRIMAL ELEVATOR LEAVES IN 10 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**右侧电梯10秒后离开 **"
 	}
 	"***RIGHT PRIMAL ELEVATOR IS LEAVING***"
 	{
-		"chi"		"** **"
+		"chi"		"**右侧电梯正在下降 **"
 	}
 	"***PLAYER PICKED UP ITEM - BEAM CANNON***"
 	{
-		"chi"		"** **"
+		"chi"		"**一名玩家拾取了光束枪（击退僵尸） **"
 	}
 	"***RIGHT RIGHT SECOND FACE WALL OPENS IN 20 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**大脸墙20秒后破碎 **"
 	}
 	"***RIGHT RIGHT SECOND FACE WALL HAS EXPLODED***"
 	{
-		"chi"		"** **"
+		"chi"		"**大脸墙被炸掉了 **"
 	}
 	"***THE GATEFACE IS PLEASED WITH YOUR CHOCOLATE SERVICE***"
 	{
-		"chi"		"** **"
+		"chi"		"**他对你的巧克力很满意 **"
 	}
 	"***YOU MAY NOW ENTER***"
 	{
-		"chi"		"** **"
+		"chi"		"**快进去 **"
 	}
 	"***HEAD TOWARDS SANTA'S FACTORY***"
 	{
-		"chi"		"** **"
+		"chi"		"**在摧毁圣诞工厂前 **"
 	}
 	"***BE PREPARED FOR ANYTHING***"
 	{
-		"chi"		"** **"
+		"chi"		"**我们要做好万全的准备 **"
 	}
 	"***SANTA FACTORY DOOR IS OPENING IN 20 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**圣诞工厂的门20秒后打开 **"
 	}
 	"***SANTA FACTORY DOOR IS OPENING IN 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**圣诞工厂的门5秒后打开 **"
 	}
 	"***SANTA FACTORY DOOR IS OPENING***"
 	{
-		"chi"		"** **"
+		"chi"		"**圣诞工厂的门打开了 **"
 	}
 	"***MAJOR FACE WALL EXPLODES IN 15 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**大脸墙15秒后破碎 **"
 	}
 	"***MAIN ELEVATOR IS LEAVING IN 20 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯20秒后离开 **"
 	}
 	"***SMELL THE DANK MIXTAPE***"
 	{
-		"chi"		"** **"
+		"chi"		"**这地方阴森森的 **"
 	}
 	"***MAJOR FACE WALL IS ABOUT TO EXPLODE***"
 	{
-		"chi"		"** **"
+		"chi"		"**大脸墙将被炸毁 **"
 	}
 	"***THE MIXTAPE IS OUT OF CONTROL***"
 	{
-		"chi"		"** **"
+		"chi"		"**失去控制了！ **"
 	}
 	"***MAJOR FACE WALL WENT BOOM***"
 	{
-		"chi"		"** **"
+		"chi"		"**大脸墙已被炸毁 **"
 	}
 	"***MAIN ELEVATOR IS LEAVING IN 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯5秒后离开 **"
 	}
 	"***THE PIZZA IS AGGRESSIVE***"
 	{
-		"chi"		"** **"
+		"chi"		"**披萨爆炸了！（叫你乱踩！） **"
 	}
 	"***MAIN ELEVATOR IS LEAVING***"
 	{
-		"chi"		"** **"
+		"chi"		"** 电梯正在离开**"
 	}
 	"***HITLERS TEETH ARE NOW BROKEN***"
 	{
-		"chi"		"** **"
+		"chi"		"**希特勒的牙齿碎了，快出去 **"
 	}
 	"***DEMOCRACY HEREBY WINS THE SUPERBOWL***"
 	{
-		"chi"		"** **"
+		"chi"		"**民主取得了胜利 **"
 	}
 	"***NAZI NIPPLE***"
 	{
-		"chi"		"** **"
+		"chi"		"**和谐 **"
 	}
 	"***BLACK HOLE***"
 	{
-		"chi"		"** **"
+		"chi"		"**和谐 **"
 	}
 	"***BLACK HOLE AND NAZI NIPPLE HAS BEEN ACTIVATED***"
 	{
-		"chi"		"** **"
+		"chi"		"**和谐 **"
 	}
 	"***GLASS WILL BREAK IN 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**玻璃5秒后破碎 **"
 	}
 	"***THE MEXISLED CAN TAKE YOU OVER THE BORDER FOR 40$***"
 	{
-		"chi"		"** **"
+		"chi"		"**花费40$就能让车带你飞 **"
 	}
 	"***YOU MANAGED TO SCRAPE TOGETHER 41$ FROM YOUR TUITION MONEY***"
 	{
-		"chi"		"** **"
+		"chi"		"**你设法从学费中省出41$ **"
 	}
 	"***20 SECONDS UNTIL DEPARTURE***"
 	{
-		"chi"		"** **"
+		"chi"		"**20秒后离开 **"
 	}
 	"***THE MEXISLED WOULD PREFER YOU TO CALL IT -THE BURRITO SHITTER-***"
 	{
-		"chi"		"** **"
+		"chi"		"**车更喜欢你称呼她为和谐 **"
 	}
 	"***PLEASE COMPLY TO THIS REQUEST OR YOUR CLUB PENGUIN ACCOUNT WILL BE DISABLED***"
 	{
-		"chi"		"** **"
+		"chi"		"**请接受这份委托，不然和谐 **"
 	}
 	"***5 SECONDS UNTIL DEPARTURE***"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒后启程 **"
 	}
 	"***THE BURRITO SHITTER IS DEPARTING***"
 	{
-		"chi"		"** **"
+		"chi"		"**车起程了 **"
 	}
 	"***NEXT STOP - ILLEGALITY***"
 	{
-		"chi"		"** **"
+		"chi"		"**下一站 **"
 	}
 	"***PUNISHING EDGERS WITH BURRITO LOVE***"
 	{
-		"chi"		"** **"
+		"chi"		"**和谐 **"
 	}
 	"***MAGIC ZOMBIE PUSH IS DISABLED***"
 	{
-		"chi"		"** **"
+		"chi"		"**空气墙失效了 **"
 	}
 	"***ZOMBIES CAN NOW GET YOU FROM THE SIDES***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸正在冲向我们 **"
 	}
 	"***FACTORY DOOR OPENS IN 10 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**工厂10秒后开启 **"
 	}
 	"***FACTORY DOOR OPENS IN 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**工厂5秒后开启 **"
 	}
 	"***FACTORY DOOR OPENS IN 4 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**4**"
 	}
 	"***FACTORY DOOR OPENS IN 3 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**3 **"
 	}
 	"***FACTORY DOOR OPENS IN 2 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**2 **"
 	}
 	"***FACTORY DOOR OPENS IN 1 SECOND***"
 	{
-		"chi"		"** **"
+		"chi"		"**1 **"
 	}
 	"***OPENING DOORS IN 10 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**10秒后开门 **"
 	}
 	"***OPENING DOORS IN 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒后开门 **"
 	}
 	"***OPENING DOORS***"
 	{
-		"chi"		"** **"
+		"chi"		"**门开了 **"
 	}
 	"***FIND THE BABY - PRESS THE BUTTON IN ORDER TO OPEN THE SEXY VENT GATE***"
 	{
-		"chi"		"** **"
+		"chi"		"**找到婴儿（大头娃娃，一个人跳过去），按下按钮开启通风口 **"
 	}
 	"***THE BABYLON BABY BUTTON HAS BEEN TOUCHED***"
 	{
-		"chi"		"** **"
+		"chi"		"**按钮被按下了 **"
 	}
 	"***THE BABYLON BABY IS PLEASED WITH YOUR ASSISTANCE***"
 	{
-		"chi"		"** **"
+		"chi"		"**婴儿很感谢你的帮助 **"
 	}
 	"***SEXY VENT GATE IS OPENING IN 20 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**通风口20秒后打开 **"
 	}
 	"***SEXY VENT GATE IS OPENING IN 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**通风口5秒后打开 **"
 	}
 	"***SEXY VENT GATE IS OPENING***"
 	{
-		"chi"		"** **"
+		"chi"		"**通风口打开了 **"
 	}
 	"***OPENING BASE SOCRATES ELEVATOR GATE***"
 	{
-		"chi"		"** **"
+		"chi"		"**去开启电梯的门 **"
 	}
 	"***TIP - YOU CAN BREAK THE RUSTY METAL***"
 	{
-		"chi"		"** **"
+		"chi"		"**提示：你可以破坏生锈的钢铁 **"
 	}
 	"***FIND THE BUTTONS***"
 	{
-		"chi"		"** **"
+		"chi"		"**找到按钮 **"
 	}
 	"***BUTTON 1 PRESSED***"
 	{
-		"chi"		"** **"
+		"chi"		"**按钮1已被按下 **"
 	}
 	"***BUTTON 2 PRESSED***"
 	{
-		"chi"		"** **"
+		"chi"		"**按钮2已被按下 **"
 	}
 	"***BUTTON 3 PRESSED***"
 	{
-		"chi"		"** **"
+		"chi"		"**按钮3已被按下 **"
 	}
 	"***YOU CAN NOW ADVANCE***"
 	{
-		"chi"		"** **"
+		"chi"		"**前进吧！终点不远了 **"
 	}
 	"***OPENING UPPER CHAPEL DOOR IN 10 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**教堂的门会在10秒后打开 **"
 	}
 	"***OPENING UPPER CHAPEL DOOR IN 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**教堂的门5秒后打开 **"
 	}
 	"***OPENING UPPER CHAPEL DOOR***"
 	{
-		"chi"		"** **"
+		"chi"		"**没开了 **"
 	}
 	"***SEXY REINDEER IS OPENING IN 15 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**这只驯鹿15分钟后上天 **"
 	}
 	"***SEXY REINDEER IS OPENING IN 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒后上天 **"
 	}
 	"***SEXY REINDEER IS SPREADING***"
 	{
-		"chi"		"** **"
+		"chi"		"**他上天了！！ **"
 	}
 	"***BRIDGE EXIT GATE IS OPENING IN 15 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**通往圣诞高塔的门15秒后打开 **"
 	}
 	"***BRIDGE EXIT GATE IS OPENING IN 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩5秒 **"
 	}
 	"***BRIDGE EXIT GATE IS OPENING***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门开了！！（前方有加速带，请注意面前的怪以免撞死。） **"
 	}
 	"***HEAD TOWARD SANTAS LAIR***"
 	{
-		"chi"		"** **"
+		"chi"		"**朝着圣诞老人的藏身处前进吧 **"
 	}
 	"***YOUR FEET BECOME NIMBLE THROUGH DETERMINATION***"
 	{
-		"chi"		"** **"
+		"chi"		"**你的决心成为了你前进的动力 **"
 	}
 	"***GET INSIDE SANTAS LAIR***"
 	{
-		"chi"		"** **"
+		"chi"		"**快进入高塔（到终点了！绝不能让僵尸进来！） **"
 	}
 	"***SANTA'S LAIR GATE IS CLOSING IN 10 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**门10秒后关闭 **"
 	}
 	"***SANTA'S LAIR GATE IS CLOSING***"
 	{
-		"chi"		"** **"
+		"chi"		"**高塔的门要关了 **"
 	}
 	"***ZOMBIES GOT INSIDE - YOU LOSE***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸进来了，你输了。。。 **"
 	}
 	"SEND ALL YOUR NUDES TO LUFFAREN!!!"
 	{
-		"chi"		"** **"
+		"chi"		"**作者欲求不满，和谐。。。 **"
 	}
 	"***SEWER BLASTDOOR WILL OPEN IN 40 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**下水道的门40秒后打开 **"
 	}
 	"***SEWER BLASTDOOR IS OPENING***"
 	{
-		"chi"		"** **"
+		"chi"		"**下水道的门正在打开 **"
 	}
 	"***ZOMBIE DETECTED - YOU FAIL***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸察觉到了！ 你输了 **"
 	}
 	"***ACT 2 COMPLETE***"
 	{
-		"chi"		"** **"
+		"chi"		"**第二章通关！祝贺你！是时候面对圣诞老人了！（本章包含大量敏感词汇，只能和谐了，妨碍理解实在抱歉） **"
 	}
 	"***TRAM 1 IS LEAVING IN 20 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**缆车一号20秒后离开 **"
 	}
 	"***LOWER ELEVATOR IS LEAVING IN 20 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯20秒后离开 **"
 	}
 	"***TRAM 1 IS LEAVING***"
 	{
-		"chi"		"** **"
+		"chi"		"**缆车一号离开了 **"
 	}
 	"***LOWER ELEVATOR IS LEAVING IN 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯5秒后离开 **"
 	}
 	"***TRAM 2 IS LEAVING IN 10 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**缆车二号10秒后离开 **"
 	}
 	"***LOWER ELEVATOR IS LEAVING***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯正在离开 **"
 	}
 	"***TRAM 2 IS LEAVING***"
 	{
-		"chi"		"** **"
+		"chi"		"**二号缆车离开了 **"
 	}
 	"***LOWER GATE IS OPENING IN 35 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**较低的大门35秒后打开 **"
 	}
 	"***INNER UPPER GATE IS OPENING IN 40 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**较高的内门40秒后打开 **"
 	}
 	"***LOWER GATE IS OPENING IN 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**较低的大门5秒后打开 **"
 	}
 	"***LOWER GATE IS OPENING***"
 	{
-		"chi"		"** **"
+		"chi"		"**较低的大门开了 **"
 	}
 	"***INNER UPPER GATE IS OPENING IN 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**较高的内门5秒后打开 **"
 	}
 	"***INNER UPPER GATE IS OPENING***"
 	{
-		"chi"		"** **"
+		"chi"		"**较高的内门开了 **"
 	}
 	"***OUTER WALL ENTRANCE IS OPENING IN 30 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**外墙的入口30秒后打开 **"
 	}
 	"***OUTER WALL ENTRANCE IS OPENING IN 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**外墙入口5秒后打开 **"
 	}
 	"***OUTER WALL ENTRANCE IS OPENING***"
 	{
-		"chi"		"** **"
+		"chi"		"**外墙入口开了 **"
 	}
 	"***UPPER GATE IS OPENING IN 30 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**上方大门30秒后打开 **"
 	}
 	"***LOWER GATE IS OPENING IN 30 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**下方大门30秒内打开 **"
 	}
 	"***UPPER GATE IS OPENING***"
 	{
-		"chi"		"** **"
+		"chi"		"**上方大门已打开 **"
 	}
 	"***OUTER GATE WILL OPEN IN 20 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**外部大门20秒后打开**"
 	}
 	"***PLAYER PICKED UP ITEM - ROCKET CANNON***"
 	{
-		"chi"		"** **"
+		"chi"		"**一名玩家拾取了火箭 **"
 	}
 	"***OUTER GATE WILL OPEN IN 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**外部大门5秒后打开 **"
 	}
 	"***MOVE IT***"
 	{
-		"chi"		"** **"
+		"chi"		"**快走！ **"
 	}
 	"***SANTA'S DOOR IS OPENING IN 20 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**圣诞老人的房间20秒后打开 **"
 	}
 	"***SANTA'S DOOR IS OPENING***"
 	{
-		"chi"		"** **"
+		"chi"		"**门开了（回头守到门关） **"
 	}
 	"***SANTA'S DOOR IS CLOSING IN 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒后关门 **"
 	}
 	"***SANTA'S DOOR IS CLOSING IN 4 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**4 **"
 	}
 	"***SANTA'S DOOR IS CLOSING IN 3 SECONDS***"
 	{
@@ -678,490 +678,490 @@
 	}
 	"***SANTA'S DOOR IS CLOSING IN 2 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**3 **"
 	}
 	"***SANTA'S DOOR IS CLOSING IN 1 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**2 **"
 	}
 	"***SANTA'S DOOR IS CLOSING***"
 	{
-		"chi"		"** **"
+		"chi"		"**1 **"
 	}
 	"*** - SANTA - ***"
 	{
-		"chi"		"** **"
+		"chi"		"**圣诞老人出现了！（小boss战，击杀真的圣诞） **"
 	}
 	"***YOU HAVE DEFEATED SANTA***"
 	{
-		"chi"		"** **"
+		"chi"		"**你击败了圣诞老人 **"
 	}
 	"***FOR NOW... IT SEEMS***"
 	{
-		"chi"		"** **"
+		"chi"		"**这似乎。。有些不对劲 **"
 	}
 	"***UPPER TOWER DOOR IS OPENING IN 20 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**塔门20秒后打开 **"
 	}
 	"***THE FINAL ELEVATOR IS LEAVING IN 50 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**最后的电梯50秒后离开 **"
 	}
 	"***UPPER TOWER DOOR IS OPENING***"
 	{
-		"chi"		"** **"
+		"chi"		"**塔门开了 **"
 	}
 	"***THE FINAL ELEVATOR IS LEAVING IN 20 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**最后的电梯20秒后离开 **"
 	}
 	"***THE FINAL ELEVATOR IS LEAVING IN 10 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**最后的电梯10秒后离开 **"
 	}
 	"***THE FINAL ELEVATOR IS LEAVING IN 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯5秒后离开 **"
 	}
 	"***THE FINAL ELEVATOR IS LEAVING***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯离开了（上去后清理小怪，注意身后冲撞的驯鹿） **"
 	}
 	"***FINAL GATE IS CLOSING IN 15 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**最后的大门15秒后关闭 **"
 	}
 	"***FINAL GATE IS CLOSING IN 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒后关门 **"
 	}
 	"***FINAL GATE IS CLOSING***"
 	{
-		"chi"		"** **"
+		"chi"		"**门关了 **"
 	}
 	"*** - BIG SANTA - ***"
 	{
-		"chi"		"** **"
+		"chi"		"**巨型圣诞 **"
 	}
 	"***YOU HAVE DEFEATED SANTA CLAUS***"
 	{
-		"chi"		"** **"
+		"chi"		"**你击败了圣诞老人！！！ **"
 	}
 	"***MUFASAS DEATH HAS BEEN AVENGED***"
 	{
-		"chi"		"** **"
+		"chi"		"**你成功为木法沙报仇了 **"
 	}
 	"***PEACE WILL NOW SPREAD THROUGH THE LANDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**和平将回荡在这片土地上 （表世界通关，恭喜大家，辛苦了！！！）**"
 	}
 	"***Thank you for playing***"
 	{
-		"chi"		"** **"
+		"chi"		"**感谢游玩 **"
 	}
 	"***MAP MADE BY - LUFFAREN***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图作者：LUFFAREN **"
 	}
 	"***MAP RESET - GOING BACK TO PROLOUGE***"
 	{
-		"chi"		"** **"
+		"chi"		"**游戏章节重置，回到序章 **"
 	}
 	"***IT FEELS LIKE YOU MISSED SOMETHING***"
 	{
-		"chi"		"** **"
+		"chi"		"**这感觉不对，似乎有什么东西被漏掉了 **"
 	}
 	"***IS THIS THE REAL ENDING?***"
 	{
-		"chi"		"** **"
+		"chi"		"** 这真的结束了吗？**"
 	}
 	"***OUTER GATE IS OPENING IN 50 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**外部大门50秒后打开 **"
 	}
 	"***CENTER GATE IS OPENING IN 30 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**中央大门30秒后打开 **"
 	}
 	"***CENTER GATE IS OPENING IN 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**中央大门5秒后打开 **"
 	}
 	"***CENTER GATE IS OPENING***"
 	{
-		"chi"		"** **"
+		"chi"		"**中央大门开启了 **"
 	}
 	"***OUTER GATE IS OPENING IN 10 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**外部大门10秒后打开 **"
 	}
 	"***OUTER GATE IS OPENING***"
 	{
-		"chi"		"** **"
+		"chi"		"**外部大门开了 **"
 	}
 	"***ELEVATOR SHAFT GATE IS OPENING IN 30 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯30秒后打开 **"
 	}
 	"***OUTER ELEVATOR IS LEAVING IN 40 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**外部电梯40秒后打开 **"
 	}
 	"***ZAZU IS PRAYING FOR THE TRUTH***"
 	{
-		"chi"		"** **"
+		"chi"		"**沙祖正祈求着真相（里世界条件触发） **"
 	}
 	"***ELEVATOR SHAFT GATE IS OPENING IN 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯5秒后打开 **"
 	}
 	"***ELEVATOR SHAFT GATE IS OPENING***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯开了 **"
 	}
 	"***OUTER ELEVATOR IS LEAVING IN 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**外部电梯5喵后离开 **"
 	}
 	"***OUTER ELEVATOR IS LEAVING***"
 	{
-		"chi"		"** **"
+		"chi"		"**外部电梯离开了 **"
 	}
 	"***SIMBA IS PRAYING FOR THE TRUTH***"
 	{
-		"chi"		"** **"
+		"chi"		"**辛巴正祈求着真相 **"
 	}
 	"***MUFASA IS PRAYING FOR THE TRUTH***"
 	{
-		"chi"		"** **"
+		"chi"		"**木法沙真祈求着真相 **"
 	}
 	"***THE TRUE PATH IS CLEAR NOW***"
 	{
-		"chi"		"** **"
+		"chi"		"**真相之路已经明细 **"
 	}
 	"***YOU SUDDENLY FEEL UNEASY ABOUT FACING SANTA...***"
 	{
-		"chi"		"** **"
+		"chi"		"**你突然觉得面对圣诞很困难 **"
 	}
 	"***YOU FEEL LIKE THE WORLD IS GOING TO BREAK APART SOON...***"
 	{
-		"chi"		"** **"
+		"chi"		"**你感觉世界仿佛被撕裂了 **"
 	}
 	"***YOU DO NOT WANT TO DO THIS ANYMORE...***"
 	{
-		"chi"		"** **"
+		"chi"		"**你不想在继续进行复仇了 **"
 	}
 	"***YOU WANT TO STOP...***"
 	{
-		"chi"		"** **"
+		"chi"		"**停下来！快停下来 **"
 	}
 	"***LEFT LEFT SECOND FACE WALL OPENS IN 30 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**大脸墙30秒后破碎 **"
 	}
 	"***LEFT LEFT SECOND FACE WALL HAS EXPLODED***"
 	{
-		"chi"		"** **"
+		"chi"		"**大脸墙爆炸了 **"
 	}
 	"Everyone should really consider sending Luffaren some nudes"
 	{
-		"chi"		"** **"
+		"chi"		"**作者又开始欲求不满了，和谐 **"
 	}
 	"HEY GUYS!"
 	{
-		"chi"		"** **"
+		"chi"		"**伙计们！ **"
 	}
 	"***YOU HAVE DEFILED MUFASAS CORPSE***"
 	{
-		"chi"		"** **"
+		"chi"		"**你玷污了木法沙的遗体 **"
 	}
 	"***SKIPPING CUTSCENE***"
 	{
-		"chi"		"** **"
+		"chi"		"**过场已跳过 **"
 	}
 	"***YOU SICK BASTARDS...***"
 	{
-		"chi"		"** **"
+		"chi"		"**你这混蛋！ **"
 	}
 	"ALL HAIL LUFFAREN, THE GOD OF BEAVERS AND DREAMS!"
 	{
-		"chi"		"** **"
+		"chi"		"**作者意淫中 **"
 	}
 	"Where da nudes for Luffaren b at?"
 	{
-		"chi"		"** **"
+		"chi"		"**作者欲求不满中 **"
 	}
 	"^Wtf are you even talking about?"
 	{
-		"chi"		"** **"
+		"chi"		"**你TM在说些什么 **"
 	}
 	"***HEAD TOWARDS SANTAS FACTORY***"
 	{
-		"chi"		"** **"
+		"chi"		"**朝圣诞工厂进发 **"
 	}
 	"***SANTAS LAIR GATE IS CLOSING IN 10 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**圣诞高塔的大门10秒后关闭 **"
 	}
 	"***SANTAS LAIR GATE IS CLOSING***"
 	{
-		"chi"		"** **"
+		"chi"		"**高塔大门正在关闭 **"
 	}
 	"Hey there everyone, you should totally send Luffaren some hot nudes ASAP!"
 	{
-		"chi"		"** **"
+		"chi"		"**作者再三强调自己欲求不满 **"
 	}
 	"Type 1 if you are jerking it right now"
 	{
-		"chi"		"** **"
+		"chi"		"**和谐 **"
 	}
 	"***SANTAS DOOR IS OPENING IN 20 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**门20秒后打开 **"
 	}
 	"***SANTAS DOOR IS OPENING***"
 	{
-		"chi"		"** **"
+		"chi"		"**门开了 **"
 	}
 	"***SANTAS DOOR IS CLOSING IN 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**门5秒内关闭 **"
 	}
 	"***SANTAS DOOR IS CLOSING IN 4 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**4 **"
 	}
 	"***SANTAS DOOR IS CLOSING IN 3 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**3 **"
 	}
 	"***SANTAS DOOR IS CLOSING IN 2 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"** 2**"
 	}
 	"***SANTAS DOOR IS CLOSING IN 1 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"** 1**"
 	}
 	"***SANTAS DOOR IS CLOSING***"
 	{
-		"chi"		"** **"
+		"chi"		"**门关了 **"
 	}
 	"***THIS IS WRONG...***"
 	{
-		"chi"		"** **"
+		"chi"		"**发生什么了，之前的都是假象？（从此开始，进入里世界） **"
 	}
 	"***THIS.. IS THE TRUTH***"
 	{
-		"chi"		"** **"
+		"chi"		"**这。。。这才是真相。。。（请跟紧带引路灯的司机，不要走丢了，提起十二分精神应对接下来的恐惧吧）**"
 	}
 	"***SOCRATES IS JUDGING YOU***"
 	{
-		"chi"		"** **"
+		"chi"		"**苏格拉底正在评判 **"
 	}
 	"***SOCRATES HAS TO CLEANSE YOU***"
 	{
-		"chi"		"** **"
+		"chi"		"**苏格拉底想净化你 **"
 	}
 	"***SOCRATES IMAGINES***"
 	{
-		"chi"		"** **"
+		"chi"		"**苏格拉底在想象**"
 	}
 	"***SOCRATES DESPISES YOU***"
 	{
-		"chi"		"** **"
+		"chi"		"**苏格拉底很羡慕你 **"
 	}
 	"***SOCRATES PONDERS***"
 	{
-		"chi"		"** **"
+		"chi"		"**苏格拉底陷入深思 **"
 	}
 	"***SOCRATES CRIES***"
 	{
-		"chi"		"** **"
+		"chi"		"**苏格拉底哭了 **"
 	}
 	"***SOCRATES ERECTS***"
 	{
-		"chi"		"** **"
+		"chi"		"**苏格拉底站起来了 **"
 	}
 	"***SOCRATES IS BLOSSOMING***"
 	{
-		"chi"		"** **"
+		"chi"		"**苏格拉底在变化 **"
 	}
 	"***THE TRUE TRAM IS LEAVING IN 30 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**真理列车30秒后发车 **"
 	}
 	"***THE TRUE TRAM IS LEAVING IN 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**真理列车5秒后发车（请注意跟着列车走动）**"
 	}
 	"***THE TRUE TRAM IS LEAVING***"
 	{
-		"chi"		"** **"
+		"chi"		"**真理列车已经发车子**"
 	}
 	"***SPECIAL SOCRATES ZOMBIE TELEPORT IN 5***"
 	{
-		"chi"		"** **"
+		"chi"		"**苏格拉底僵尸5秒后传送**"
 	}
 	"***4***"
 	{
-		"chi"		"** **"
+		"chi"		"**4**"
 	}
 	"***3***"
 	{
-		"chi"		"** **"
+		"chi"		"**3**"
 	}
 	"***2***"
 	{
-		"chi"		"** **"
+		"chi"		"**2**"
 	}
 	"***UNO***"
 	{
-		"chi"		"** **"
+		"chi"		"**UNO**"
 	}
 	"***THE MAPPER FELT THE NEED TO COMPENSATE FOR SOMETHING THAT HE LACKED***"
 	{
-		"chi"		"** **"
+		"chi"		"**作者想要补偿他所缺失的东西COMPENSAT 
 	}
 	"***DONT TELL HIM I SAID THAT***"
 	{
-		"chi"		"** **"
+		"chi"		"**别告诉他我说了什么**"
 	}
 	"***THE TRUE ELEVATOR IS LEAVING IN 30 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**真理电梯30秒后离开**"
 	}
 	"***THE TRUE ELEVATOR IS LEAVING IN 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**真理电梯5秒后离开 **"
 	}
 	"***THE TRUE ELEVATOR IS LEAVING***"
 	{
-		"chi"		"** **"
+		"chi"		"**真理电梯离开了 **"
 	}
 	"***SOCRATES WISHES SILENTLY***"
 	{
-		"chi"		"** **"
+		"chi"		"**苏格拉底默默祈祷着 **"
 	}
 	"***SOCRATES FEELS YOU***"
 	{
-		"chi"		"** **"
+		"chi"		"**苏格拉底察觉到你了**"
 	}
 	"***SOCRATES CRAVES***"
 	{
-		"chi"		"** **"
+		"chi"		"**苏格拉底渴望着 **"
 	}
 	"***SOCRATES PLAYS NINTENDO 64***"
 	{
-		"chi"		"** **"
+		"chi"		"**苏格拉底玩着任天堂64位游戏机 **"
 	}
 	"***SOCRATES REGRETS YOUR DEEDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**苏格拉底对你的行为感到惋惜 **"
 	}
 	"***SOCRATES CARES FOR NO MAN***"
 	{
-		"chi"		"** **"
+		"chi"		"**苏格拉底对一切漠不关心 **"
 	}
 	"***SOCRATES IS***"
 	{
-		"chi"		"** **"
+		"chi"		"**苏格拉底是 **"
 	}
 	"***SOCRATES FEEDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**苏格拉底要吃东西 **"
 	}
 	"***SOCRATES NEEDS BENDER***"
 	{
-		"chi"		"** **"
+		"chi"		"**苏格拉底在狂欢 **"
 	}
 	"***SOCRATES IS ALL***"
 	{
-		"chi"		"** **"
+		"chi"		"**苏格拉底是一切 **"
 	}
 	"***SOCRATES IS NOTHING***"
 	{
-		"chi"		"** **"
+		"chi"		"**苏格拉底是虚无 **"
 	}
 	"***SOCRATES IS NOTHING AT ALL***"
 	{
-		"chi"		"** **"
+		"chi"		"**苏格拉底什么都不是 **"
 	}
 	"***SOCRATES DOES NOT EXIST***"
 	{
-		"chi"		"** **"
+		"chi"		"**苏格拉底根本不存在 **"
 	}
 	"***SOCRATES IS AWAKENED***"
 	{
-		"chi"		"** **"
+		"chi"		"**苏格拉底醒了 **"
 	}
 	"***SOCRATES CANNOT KEEP***"
 	{
-		"chi"		"** **"
+		"chi"		"**苏格拉底把持不住了（开个玩笑缓解气氛） **"
 	}
 	"***SOCRATES RUMBLES YOUR WILL***"
 	{
-		"chi"		"** **"
+		"chi"		"**苏格拉底看穿了你的想法 **"
 	}
-	"***SOCRATES SELLS GASOLINE***"
+	"***SOCRATES SELLS RUMBLES***"
 	{
-		"chi"		"** **"
+		"chi"		"**苏格拉底发出隆隆声 **"
 	}
 	"***SOCRATES WILL ARRIVE***"
 	{
-		"chi"		"** **"
+		"chi"		"**苏格拉底来了 **"
 	}
 	"***SOCRATES WILL CLEANSE***"
 	{
-		"chi"		"** **"
+		"chi"		"**苏格拉底会净化一切 **"
 	}
 	"***SOCRATES WILL DESTROY***"
 	{
-		"chi"		"** **"
+		"chi"		"**苏格拉底将破坏一切 **"
 	}
 	"***SOCRATES IS NEAR***"
 	{
-		"chi"		"** **"
+		"chi"		"**苏格拉底就在附近 **"
 	}
 	"***SOCRATES WELCOMES YOU***"
 	{
-		"chi"		"** **"
+		"chi"		"**苏格拉底欢迎你的到来 **"
 	}
 	"***SOCRATES IS SANTA***"
 	{
-		"chi"		"** **"
+		"chi"		"**苏格拉底就是圣诞 **"
 	}
 	"***PLAYER PICKED UP ITEM - HERDER***"
 	{
-		"chi"		"** **"
+		"chi"		"**一名玩家拾取了指路明灯 **"
 	}
 	"*** - TRUE SANTA - ***"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS：真正的圣诞 **"
 	}
 	"***SPEEDER ITEMS ACTIVATED***"
 	{
-		"chi"		"** **"
+		"chi"		"**发动加速 **"
 	}
 	"***YOU HAVE DONE IT!***"
 	{
-		"chi"		"** **"
+		"chi"		"**你做到了！ **"
 	}
 	"***YOU HAVE DEFEATED SOCRATES - THE TRUE SANTA!***"
 	{
-		"chi"		"** **"
+		"chi"		"**你击败了真正的圣诞，苏格拉底 **"
 	}
 	"***YOU WILL BE REMEMBERED AS CHAMPIONS***"
 	{
-		"chi"		"** **"
+		"chi"		"**你是英雄，将被人们所铭记 **"
 	}
 	"***THE END***"
 	{
-		"chi"		"** **"
+		"chi"		"**完（至此，游戏真正通关了，希望大家别去翻翻译的原文或者考据了，讲道理这是为你们精神健康着想，辛苦大家了） **"
 	}
 	"***THE ETERNAL TRUTH LOOMS***"
 	{
-		"chi"		"** **"
+		"chi"		"**真相被永远隐藏了 **"
 	}
 }
