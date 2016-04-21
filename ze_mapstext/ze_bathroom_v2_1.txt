@@ -18,7 +18,7 @@
 	}
 	"We'll have to roll down the toilet paper to safely climb down."
 	{
-		"chi"		"**我们要放下厕纸让我们下去**"
+		"chi"		"**我们要放下厕纸让我们下去（一人在厕纸不停前进）**"
 	}
 	"Toilet paper is rolled down. Fall back!"
 	{
@@ -30,7 +30,7 @@
 	}
 	"Mouse trap has been picked up."
 	{
-		"chi"		"**捕鼠器被捡起**"
+		"chi"		"**捕鼠器被捡起（一定范围秒杀僵尸，目前已无碰撞体积，不能用来卡僵尸了）**"
 	}
 	"Resist for 25 seconds."
 	{
@@ -58,19 +58,19 @@
 	}
 	"Resist until the wall breaks."
 	{
-		"chi"		"**守到墙碎掉**"
+		"chi"		"**守到墙碎掉（上去一人按e推开肥皂，其余人在下边守）**"
 	}
 	"Fall back!"
 	{
-		"chi"		"** 撤退**"
+		"chi"		"** 肥皂被推开了！撤退**"
 	}
 	"Resist until the ceiling breaks."
 	{
-		"chi"		"**守卫直到天花板裂开**"
+		"chi"		"**守卫直到天花板裂开（一人下去开启吹风机，其余人等待提示，下去时看清梳子位置，小心摔死）**"
 	}
 	"We'll have to jump outside and walk across the mirror."
 	{
-		"chi"		"**我们需要跳出去，从镜子穿过**"
+		"chi"		"**我们需要跳出去，从玻璃架上穿过**"
 	}
 	"Hold on for a few seconds."
 	{
@@ -82,7 +82,7 @@
 	}
 	"Seems like there is no way to escape."
 	{
-		"chi"		"**看起来无路可逃了！**"
+		"chi"		"**看起来无路可逃了！（攻击上方玻璃架的支柱，注意不要被掉落的玻璃板和卷纸秒杀）**"
 	}
 	"That's it! Break the shelf support."
 	{
@@ -90,7 +90,7 @@
 	}
 	"There is no way around."
 	{
-		"chi"		"**四周没有路了！**"
+		"chi"		"**四周没有路了！（等待门打开，门关的非常迅速，走慢了到最后不要跳，走下去不会死）**"
 	}
 	"We'll have to enter the boiler. Resist!"
 	{
@@ -98,7 +98,7 @@
 	}
 	"We can enter through that hole! Fall back!"
 	{
-		"chi"		"**我们能穿个那个洞了！撤退！**"
+		"chi"		"**我们能穿过个那个洞了！撤退！**"
 	}
 	"The sponge has been defeated! Run!"
 	{
@@ -118,7 +118,7 @@
 	}
 	"***MAP BY - LUFFAREN***"
 	{
-		"chi"		"** **"
+		"chi"		"**  **"
 	}
 	"***DO NOT TRY TO TAKE SHORTCUTS - IT WILL RESULT IN TELEPORTING BACK***"
 	{
@@ -126,10 +126,10 @@
 	}
 	"Well have to roll down the toilet paper to safely climb down."
 	{
-		"chi"		"** **"
+		"chi"		"**放下卷纸我们才能安全下去 **"
 	}
 	"Toilet paper has been rolled down. Fall back!"
 	{
-		"chi"		"** **"
+		"chi"		"**卷纸已经放到地下了，撤退吧（萌新慢慢爬，小心摔死） **"
 	}
 }
